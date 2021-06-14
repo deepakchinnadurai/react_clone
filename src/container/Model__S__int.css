@@ -1,0 +1,28 @@
+.img{
+    background-image: url("https://tesla-cdn.thron.com/delivery/public/image/tesla/32e5e0f3-5c04-42ef-8f8f-c6b1c26f8a9e/bvlatuR/std/2880x1800/ms-main-hero-desktop") no-repeat center center fixed;
+  
+
+}
+
+.pos{
+    position: relative;
+    bottom:400px;
+}
+
+.carousel {
+    width: 500px;
+    height: 550px;
+    background-color: #ff0000;
+    
+    overflow: visible;
+    white-space:nowrap;
+}
+
+.carousel .slide {
+    display: inline-block;
+}
+
+.line{
+    height: 1px;
+    background: black;
+}
